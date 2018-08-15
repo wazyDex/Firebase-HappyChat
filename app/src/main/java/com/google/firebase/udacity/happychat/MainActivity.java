@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static final String ANONYMOUS = "anonymous";
     public static final int DEFAULT_MSG_LENGTH_LIMIT = 1000;
-//
+
     public static final int RC_SIGN_IN = 1;
 
     private ListView mMessageListView;
